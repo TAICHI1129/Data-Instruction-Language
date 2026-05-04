@@ -1,4 +1,4 @@
-#DIL (Data Instruction Language) Specification
+# DIL (Data Instruction Language) Specification
 
 1. Overview
 
